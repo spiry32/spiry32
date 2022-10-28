@@ -3,11 +3,11 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://discord.gg/rmkg78ge2p)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_spiry/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=spiry32)
+### I'm glad you're reading this! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=spiry32)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I like to spend my time programming and making scripts for FiveM.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+Even though I love what I do, in my spare time I am a Frisbee player for an official team in my city.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
