@@ -14,9 +14,9 @@ Even though I love what I do, in my spare time I am a Frisbee player for an offi
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://cdn-icons-png.flaticon.com/512/4439/4439476.png" width="21" />&nbsp;&nbsp; I know Python, Lua and C++ at a decent level;
-- <img src="https://www.flaticon.com/free-icon/mechanic_8121402?related_id=8121402&origin=pack" width="21" />&nbsp;&nbsp; I'm trying to learn JS;
-- <img src="https://imgur.com/74qZBOo" width="21" />&nbsp;&nbsp; [Do you want to send me a message?](https://discord.gg/rmkg78ge2p)
+- <img src="https://cdn-icons-png.flaticon.com/512/2645/2645163.png" width="21" />&nbsp;&nbsp; I know Python, Lua and C++ at a decent level;
+- <img src="https://cdn-icons-png.flaticon.com/512/3145/3145765.png" width="21" />&nbsp;&nbsp; I'm trying to learn JS;
+- <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" width="21" />&nbsp;&nbsp; [Do you want to send me a message?](https://discord.gg/rmkg78ge2p)
 
 </br>
 
