@@ -14,11 +14,8 @@ Even though I love what I do, in my spare time I am a Frisbee player for an offi
 
 **Talking about Personal Stuffs:**
 
-- <img src="[https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true](https://www.flaticon.com/free-icon/mechanic_8121402?related_id=8121402&origin=pack)" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
+- <img src="(https://www.flaticon.com/free-icon/mechanic_8121402?related_id=8121402&origin=pack)]" width="21" />&nbsp;&nbsp; I know Python, Lua and C++ at a decent level;
+- <img src="(https://www.flaticon.com/free-icon/mechanic_8121402?related_id=8121402&origin=pack)]" width="21" />&nbsp;&nbsp; I'm trying to learn JS;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Do you want to send me a message?](https://discord.gg/rmkg78ge2p)
 
 </br>
