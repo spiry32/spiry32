@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there, My name is **Alex**</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://discord.gg/rmkg78ge2p)
+[![Website Badge](https://cdn-icons-png.flaticon.com/512/2111/2111267.png)](https://discord.gg/rmkg78ge2p)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_spiry/)
 
 ### I'm glad you're reading this! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=spiry32)
